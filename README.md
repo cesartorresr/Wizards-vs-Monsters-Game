@@ -1,13 +1,11 @@
-# co6a345908f337ebdd84322a3
+# Wizard vs Monsters Game
 
-## About Scrimba
+## About Wizard vs Monsters
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+My goal is to learn as much as possible and with this project I learned a lot: ternary operator, arrow function, reduce method, map method, setTimeOut, manipulation of bar health with css and javascript, Constructor Functions, the this keyword, object destructuring, the fill method, the join method, etc 🎉 I'm going to keep the pace to becoming a Frontend Developer 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Happy Coding!
+
+- Link to see the project: https://wizardvsmonsters.netlify.app/
 
 Happy Coding!
